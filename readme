@@ -1,0 +1,6 @@
+IMPORTANT NOTES:
+1: If you are replacing gateway make sure to copy the old database
+    into new gateway or else data will not show into reports
+2: In the project folder inside preparatory section there is "manual program" folder,
+    the code in this folder only uploaded into few machines.
+    For machine names open readme.txt file in that folder.
